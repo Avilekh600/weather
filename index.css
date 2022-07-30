@@ -17,7 +17,7 @@ h1{
 .buttom{
     border: 2px solid cyan;
     width: 400px;
-    height: 400px;
+    height: fit-content;
     color: white;
     font-size: 2rem;
     
